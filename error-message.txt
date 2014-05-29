@@ -1,0 +1,7 @@
+  There was an error loading api-meta
+  make sure it is installed locally within %s
+
+  * run npm install api-meta to install locally
+  
+  * or run npm install api-meta --save-dev to install locally
+    and save api-meta in your project's package.json devDependencies

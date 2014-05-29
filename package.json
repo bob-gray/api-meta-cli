@@ -1,0 +1,18 @@
+{
+	"name": "api-meta-cli",
+	"version": "0.0.1",
+	"description": "Command line utility for running locally installed api-meta",
+	"author": "Bob Gray <gray.bob98@gmail.com>",
+	"license" : "MIT",
+	"preferGlobal": true,
+	"bin": {
+		"api": "index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/bob-gray/api-meta-cli.git"
+	},
+	"dependencies": {
+		"resolve": "~0.5.1"
+	}
+}
