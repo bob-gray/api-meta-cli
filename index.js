@@ -13,6 +13,7 @@ try {
 
 } catch (error) {
 	logError();
+	process.exit();
 }
 
 localApiMeta.run();
