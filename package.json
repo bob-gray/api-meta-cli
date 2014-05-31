@@ -13,6 +13,6 @@
 		"url": "https://github.com/bob-gray/api-meta-cli.git"
 	},
 	"dependencies": {
-		"resolve": "~0.5.1"
+		"resolve": "~0.7.0"
 	}
 }
